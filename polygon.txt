@@ -1,0 +1,5 @@
+Future work:
+- Variable time step based on max value for the forces
+- Bending defined as a function of the number of particles composing
+the cell
+- Relax bending after finishing cell divisions
